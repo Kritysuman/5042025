@@ -1,0 +1,9 @@
+variable "versionrg" {}
+variable "versionsa" {}
+variable "versionsn" {}
+variable "versionvn" {}
+variable "versionpi" {}
+variable "versionni" {}
+variable "versionvm" {}
+variable "versionnsg" {}
+variable "versionnsgni" {}
